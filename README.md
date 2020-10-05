@@ -5,3 +5,5 @@ Kullanılanlar:
 - Alert Dialog
 - Toast Message
 - Context
+
+Hem kotlin hem de Java kodlarını kullanarak AlertDialog olusturma kod yorum satırları ile açıklanarak yapıldı.
